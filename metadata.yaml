@@ -1,0 +1,36 @@
+_repo: The-Life-of-the-Truly-Eminent-and-Learned-Hugo-GrotiusContaining-a-Copious-and-Circumstantial__15606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burigny, M. de (Jean Lévesque)
+    aliases:
+    - Burigni, M. de (Jean Lévesque)
+    - Burigny, M. de (Jean Levesque)
+    - Burigny, Jean Lévesque de
+    - De Burigny, M. (Jean Lévesque)
+    birthdate: 1692
+    deathdate: 1785
+    gutenberg_agent_id: '6148'
+    url: http://www.gutenberg.org/2009/agents/6148
+    wikipedia: http://en.wikipedia.org/wiki/Jean_L%C3%A9vesque_de_Burigny
+description: ''
+gutenberg_issued: '2005-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15606'
+  lccn: 07022618
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Grotius, Hugo, 1583-1645'
+- !lcc 'DH'
+title: 'The Life of the Truly Eminent and Learned Hugo Grotius
+
+  Containing a Copious and Circumstantial History of the Several Important and Honourable
+  Negotiations in Which He Was Employed; together with a Critical Account of His Works'
+url: http://www.gutenberg.org/ebooks/15606
