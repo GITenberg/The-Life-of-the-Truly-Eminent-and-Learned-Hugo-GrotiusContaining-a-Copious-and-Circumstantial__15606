@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6148
     wikipedia: http://en.wikipedia.org/wiki/Jean_L%C3%A9vesque_de_Burigny
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15606#The-Life-of-the-Truly-Eminent-and-Learned-Hugo-GrotiusContaining-a-Copious-and-Circumstantial_
 gutenberg_issued: '2005-04-12'
 gutenberg_type: Text
 identifiers:
